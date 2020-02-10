@@ -9,13 +9,8 @@ package hospitalmanagmentsystem;
  *
  * @author DELL
  */
-public class HospitalManagmentSystem {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+public class Person {
+    String Name;
+    CompleteDate BirthDate;
+    char Gender;
 }
